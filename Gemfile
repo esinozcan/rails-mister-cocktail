@@ -8,7 +8,7 @@ gem 'rails', '~> 5.2.3'
 gem 'simple_form'
 gem 'figaro'
 gem 'cloudinary'
-gem 'carrierwave', '~> 1.2'
+gem 'carrierwave', '~> 1.3'
 
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
